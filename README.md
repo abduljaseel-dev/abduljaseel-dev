@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Abdul Jaseel 👋
 
-<!--
-**abduljaseel-dev/abduljaseel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer focused on building dynamic CRUD-based websites using PHP, HTML, JavaScript, AJAX, and MySQL.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* PHP
+* MySQL
+* HTML5
+* CSS3
+* JavaScript
+* AJAX
+* Bootstrap
+* Responsive Design
+* CRUD Applications
+
+## Projects
+
+* Student Management System
+* Employee Portal
+* Inventory Management Website
+* Appointment Booking Website
+* Authentication System
+
+## Currently Working On
+
+* Freelance-ready business websites
+* Admin dashboards
+* Real-world CRUD systems
+
+## Contact
+
+Open for freelance work and web development coaching.
